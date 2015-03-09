@@ -19,7 +19,9 @@
     "hubot-scripts": "~2.5.16",
     "hubot": "~2.11.2",
     "hubot-slack": "~3.3.0",
-    "hubot-choice": "git://github.com/bouzuya/hubot-choice"
+    "hubot-choice": "git://github.com/bouzuya/hubot-choice",
+    "hubot-bijin": "git://github.com/tatsuakiw/hubot-bijindokei",
+    "hubot-hello-world": "git://github.com/bouzuya/hubot-hello-world"
   },
   "engines": {
     "node": "0.10.x"
