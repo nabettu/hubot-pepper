@@ -21,7 +21,8 @@
     "hubot-slack": "~3.3.0",
     "hubot-choice": "git://github.com/bouzuya/hubot-choice",
     "hubot-bijin": "git://github.com/nabettu/hubot-bijindokei",
-    "hubot-hello-world": "git://github.com/bouzuya/hubot-hello-world"
+    "hubot-hello-world": "git://github.com/bouzuya/hubot-hello-world",
+    "data-utils": "0.0.0"
   },
   "engines": {
     "node": "0.10.x"
